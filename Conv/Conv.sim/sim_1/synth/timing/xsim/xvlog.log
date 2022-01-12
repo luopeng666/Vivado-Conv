@@ -1,0 +1,31 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lenovo/Desktop/homework/Conv/Conv.sim/sim_1/synth/timing/xsim/test_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Conv
+INFO: [VRFC 10-311] analyzing module Conv_95
+INFO: [VRFC 10-311] analyzing module multiplier
+INFO: [VRFC 10-311] analyzing module multiplier_0
+INFO: [VRFC 10-311] analyzing module multiplier_1
+INFO: [VRFC 10-311] analyzing module multiplier_10
+INFO: [VRFC 10-311] analyzing module multiplier_11
+INFO: [VRFC 10-311] analyzing module multiplier_12
+INFO: [VRFC 10-311] analyzing module multiplier_13
+INFO: [VRFC 10-311] analyzing module multiplier_14
+INFO: [VRFC 10-311] analyzing module multiplier_15
+INFO: [VRFC 10-311] analyzing module multiplier_16
+INFO: [VRFC 10-311] analyzing module multiplier_17
+INFO: [VRFC 10-311] analyzing module multiplier_18
+INFO: [VRFC 10-311] analyzing module multiplier_19
+INFO: [VRFC 10-311] analyzing module multiplier_2
+INFO: [VRFC 10-311] analyzing module multiplier_20
+INFO: [VRFC 10-311] analyzing module multiplier_21
+INFO: [VRFC 10-311] analyzing module multiplier_22
+INFO: [VRFC 10-311] analyzing module multiplier_23
+INFO: [VRFC 10-311] analyzing module multiplier_3
+INFO: [VRFC 10-311] analyzing module multiplier_4
+INFO: [VRFC 10-311] analyzing module multiplier_5
+INFO: [VRFC 10-311] analyzing module multiplier_6
+INFO: [VRFC 10-311] analyzing module multiplier_7
+INFO: [VRFC 10-311] analyzing module multiplier_8
+INFO: [VRFC 10-311] analyzing module multiplier_9
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lenovo/Desktop/homework/Conv/Conv.srcs/sim_1/new/test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test

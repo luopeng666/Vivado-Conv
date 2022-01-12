@@ -1,0 +1,56 @@
+Vivado Simulator v2021.1
+Copyright 1986-1999, 2001-2021 Xilinx, Inc. All Rights Reserved.
+Running: E:/Vivado/Vivado/2021.1/bin/unwrapped/win64.o/xelab.exe -wto 060feff7381549cfa21396ea49b37930 --incr --debug typical --relax --mt 2 --maxdelay -L xil_defaultlib -L simprims_ver -L secureip --snapshot test_time_synth -transport_int_delays -pulse_r 0 -pulse_int_r 0 -pulse_e 0 -pulse_int_e 0 xil_defaultlib.test xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+INFO: [XSIM 43-3451] SDF backannotation process started with SDF file "test_time_synth.sdf", for root module "test/conv95".
+INFO: [XSIM 43-3452] SDF backannotation was successful for SDF file "test_time_synth.sdf", for root module "test/conv95".
+Time Resolution for simulation is 1ps
+Compiling module simprims_ver.IBUF
+Compiling module simprims_ver.LUT5
+Compiling module simprims_ver.LUT6
+Compiling module simprims_ver.x_lut3_mux8
+Compiling module simprims_ver.LUT3
+Compiling module simprims_ver.FDRE_default
+Compiling module simprims_ver.x_lut2_mux4
+Compiling module simprims_ver.LUT2
+Compiling module simprims_ver.LUT4
+Compiling module simprims_ver.CARRY4
+Compiling module simprims_ver.BUFG
+Compiling module xil_defaultlib.multiplier
+Compiling module xil_defaultlib.multiplier_0
+Compiling module xil_defaultlib.multiplier_1
+Compiling module xil_defaultlib.multiplier_2
+Compiling module xil_defaultlib.multiplier_3
+Compiling module xil_defaultlib.multiplier_4
+Compiling module xil_defaultlib.multiplier_5
+Compiling module xil_defaultlib.multiplier_6
+Compiling module xil_defaultlib.multiplier_7
+Compiling module xil_defaultlib.multiplier_8
+Compiling module xil_defaultlib.multiplier_9
+Compiling module xil_defaultlib.multiplier_10
+Compiling module xil_defaultlib.multiplier_11
+Compiling module xil_defaultlib.multiplier_12
+Compiling module xil_defaultlib.multiplier_13
+Compiling module xil_defaultlib.multiplier_14
+Compiling module xil_defaultlib.multiplier_15
+Compiling module xil_defaultlib.multiplier_16
+Compiling module xil_defaultlib.multiplier_17
+Compiling module xil_defaultlib.multiplier_18
+Compiling module xil_defaultlib.multiplier_19
+Compiling module xil_defaultlib.multiplier_20
+Compiling module xil_defaultlib.multiplier_21
+Compiling module xil_defaultlib.multiplier_22
+Compiling module xil_defaultlib.multiplier_23
+Compiling module xil_defaultlib.Conv
+Compiling module simprims_ver.x_lut1_mux2
+Compiling module simprims_ver.LUT1(INIT=2'b01)
+Compiling module simprims_ver.OBUF
+Compiling module xil_defaultlib.Conv_95
+Compiling module xil_defaultlib.test
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot test_time_synth

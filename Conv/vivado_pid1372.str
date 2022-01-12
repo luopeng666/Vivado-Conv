@@ -1,0 +1,123 @@
+/*
+
+Xilinx Vivado v2021.1 (64-bit) [Major: 2021, Minor: 1]
+SW Build: 3247384 on Thu Jun 10 19:36:33 MDT 2021
+IP Build: 3246043 on Fri Jun 11 00:30:35 MDT 2021
+
+Process ID (PID): 1372
+License: Customer
+Mode: GUI Mode
+
+Current time: 	Sun Dec 19 22:52:43 CST 2021
+Time zone: 	China Standard Time (Asia/Shanghai)
+
+OS: Windows 10
+OS Version: 10.0
+OS Architecture: amd64
+Available processors (cores): 8
+
+Screen size: 1920x1080
+Screen resolution (DPI): 125
+Available screens: 1
+Default font: family=Dialog,name=Dialog,style=plain,size=15
+Scale size: 19
+
+Java version: 	11.0.2 64-bit
+Java home: 	E:/Vivado/Vivado/2021.1/tps/win64/jre11.0.2
+Java executable: 	E:/Vivado/Vivado/2021.1/tps/win64/jre11.0.2/bin/java.exe
+Java initial memory (-Xms): 	256 MB
+Java maximum memory (-Xmx):	 3 GB
+
+
+User name: 	lenovo
+User home directory: C:/Users/lenovo
+User working directory: C:/Users/lenovo/Desktop/work/Conv
+User country: 	CN
+User language: 	zh
+User locale: 	zh_CN
+
+RDI_BASEROOT: E:/Vivado/Vivado
+HDI_APPROOT: E:/Vivado/Vivado/2021.1
+RDI_DATADIR: E:/Vivado/Vivado/2021.1/data
+RDI_BINDIR: E:/Vivado/Vivado/2021.1/bin
+
+Vivado preferences file: C:/Users/lenovo/AppData/Roaming/Xilinx/Vivado/2021.1/vivado.xml
+Vivado preferences directory: C:/Users/lenovo/AppData/Roaming/Xilinx/Vivado/2021.1/
+Vivado layouts directory: C:/Users/lenovo/AppData/Roaming/Xilinx/Vivado/2021.1/data/layouts
+PlanAhead jar file: 	E:/Vivado/Vivado/2021.1/lib/classes/planAhead.jar
+Vivado log file: 	C:/Users/lenovo/Desktop/work/Conv/vivado.log
+Vivado journal file: 	C:/Users/lenovo/Desktop/work/Conv/vivado.jou
+Engine tmp dir: 	C:/Users/lenovo/Desktop/work/Conv/.Xil/Vivado-1372-LAPTOP-1BK2POMI
+
+Xilinx Environment Variables
+----------------------------
+XILINX: E:/Vivado/Vivado/2021.1/ids_lite/ISE
+XILINX_DSP: E:/Vivado/Vivado/2021.1/ids_lite/ISE
+XILINX_HLS: E:/Vivado/Vitis_HLS/2021.1
+XILINX_PLANAHEAD: E:/Vivado/Vivado/2021.1
+XILINX_VIVADO: E:/Vivado/Vivado/2021.1
+XILINX_VIVADO_HLS: E:/Vivado/Vivado/2021.1
+
+
+GUI allocated memory:	256 MB
+GUI max memory:		3,072 MB
+Engine allocated memory: 1,151 MB
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// TclEventType: START_GUI
+// TclEventType: PROJECT_OPEN_DIALOG
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// bz (cs):  Open Project : addNotify
+// Opening Vivado Project: C:\Users\lenovo\Desktop\work\Conv\Conv.xpr. Version: Vivado v2021.1 
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// TclEventType: FLOW_ADDED
+// Tcl Message: open_project C:/Users/lenovo/Desktop/work/Conv/Conv.xpr 
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_STATUS_CHANGE
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_STATUS_CHANGE
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_DASHBOARD_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_NEW
+// Tcl Message: open_project C:/Users/lenovo/Desktop/work/Conv/Conv.xpr 
+// Tcl Message: INFO: [Project 1-313] Project file moved from 'C:/Users/lenovo/Desktop/homework/Conv' since last save. 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 122 MB (+125952kb) [00:00:08]
+// [Engine Memory]: 1,151 MB (+1055476kb) [00:00:08]
+// [GUI Memory]: 129 MB (+845kb) [00:00:10]
+// WARNING: HEventQueue.dispatchEvent() is taking  3664 ms.
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'E:/Vivado/Vivado/2021.1/data/ip'. 
+// HMemoryUtils.trashcanNow. Engine heap size: 1,151 MB. GUI used memory: 68 MB. Current time: 12/19/21, 10:52:43 PM CST
+// Tcl Message: open_project: Time (s): cpu = 00:00:16 ; elapsed = 00:00:06 . Memory (MB): peak = 1136.473 ; gain = 0.000 
+// Project name: Conv; location: C:/Users/lenovo/Desktop/work/Conv; part: xc7a200tfbv676-2
+dismissDialog("Open Project"); // bz
+// Tcl Command: 'rdi::info_commands {device::*}'
+// Tcl Command: 'rdi::info_commands {debug::*}'
+// Tcl Command: 'rdi::info_commands {*}'
+// [GUI Memory]: 136 MB (+172kb) [00:00:17]
+// [GUI Memory]: 145 MB (+2660kb) [00:00:17]
+// Tcl Message: update_compile_order -fileset sources_1 
+// Elapsed time: 25 seconds
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, display (display.v)]", 1); // D
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Constraints]", 4); // D
+// [GUI Memory]: 159 MB (+6296kb) [00:02:30]

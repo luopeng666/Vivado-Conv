@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Thu Dec 16 15:35:53 2021
+# Process ID: 4584
+# Current directory: C:/Users/lenovo/Desktop/homework/Conv
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent17048 C:\Users\lenovo\Desktop\homework\Conv\Conv.xpr
+# Log file: C:/Users/lenovo/Desktop/homework/Conv/vivado.log
+# Journal file: C:/Users/lenovo/Desktop/homework/Conv\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/lenovo/Desktop/homework/Conv/Conv.xpr
+update_compile_order -fileset sources_1

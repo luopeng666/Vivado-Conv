@@ -1,0 +1,10 @@
+0.7
+2020.2
+Jun 10 2021
+20:04:57
+C:/Users/lenovo/Desktop/work/Conv/Conv.sim/sim_1/behav/xsim/glbl.v,1623370582,verilog,,,,glbl,,,,,,,,
+C:/Users/lenovo/Desktop/work/Conv/Conv.srcs/sim_1/new/test.v,1639146111,verilog,,,,test,,,,,,,,
+C:/Users/lenovo/Desktop/work/Conv/Conv.srcs/sources_1/new/Conv53.v,1639839695,verilog,,C:/Users/lenovo/Desktop/work/Conv/Conv.srcs/sources_1/new/adder32.v,,Conv_53,,,,,,,,
+C:/Users/lenovo/Desktop/work/Conv/Conv.srcs/sources_1/new/adder32.v,1639141816,verilog,,C:/Users/lenovo/Desktop/work/Conv/Conv.srcs/sources_1/new/conv.v,,CLA;CLA_16;adder;adder20;adder_4,,,,,,,,
+C:/Users/lenovo/Desktop/work/Conv/Conv.srcs/sources_1/new/conv.v,1639141817,verilog,,C:/Users/lenovo/Desktop/work/Conv/Conv.srcs/sources_1/new/multiplier.v,,Conv,,,,,,,,
+C:/Users/lenovo/Desktop/work/Conv/Conv.srcs/sources_1/new/multiplier.v,1639142642,verilog,,C:/Users/lenovo/Desktop/work/Conv/Conv.srcs/sim_1/new/test.v,,multiplier;shifterl_1bit;shifterl_2bit;shifterl_3bit;shifterl_4bit;shifterl_5bit;shifterl_6bit;shifterl_7bit;shifterr_1bit,,,,,,,,

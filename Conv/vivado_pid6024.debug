@@ -1,0 +1,45 @@
+#--------------------------------------------------------------------------
+# Xilinx Vivado v2021.1 (64-bit)
+# SW Build: 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build: 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Current time: Sat Dec 18 22:17:51 CST 2021
+# Process ID (PID): 6024
+# User: lenovo
+# OS: Windows 10
+# Project: Conv
+# Part: xc7a200tfbv676-2
+#
+# This file is an indication that an internal application error occurred.
+# This information is useful for debugging. Please open a case with Xilinx.
+# Technical Support with this file and a testcase attached.
+#--------------------------------------------------------------------------
+Sat Dec 18 22:17:51 CST 2021
+javax.swing.text.BadLocationException: Invalid remove
+	at java.desktop/javax.swing.text.AbstractDocument.handleRemove(AbstractDocument.java:611)
+	at java.desktop/javax.swing.text.AbstractDocument.remove(AbstractDocument.java:596)
+	at java.desktop/javax.swing.text.AbstractDocument.replace(AbstractDocument.java:672)
+	at ui.j.c.af.a(SourceFile:158)
+	at ui.utils.C.F(SourceFile:2790)
+	at ui.j.c.af.a(SourceFile:149)
+	at ui.j.c.E.cl(SourceFile:372)
+	at ui.j.c.E.E(SourceFile:503)
+	at ui.j.c.E.ck(SourceFile:371)
+	at ui.j.c.ag.hv(SourceFile:199)
+	at ui.dlg.c.bz.aHF(SourceFile:255)
+	at ui.dlg.c.bF.aOp(SourceFile:1238)
+	at ui.frmwork.x.run(SourceFile:194)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:313)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:770)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:740)
+	at ui.frmwork.a.d.dispatchEvent(SourceFile:92)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+

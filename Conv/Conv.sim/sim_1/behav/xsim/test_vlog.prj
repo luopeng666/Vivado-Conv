@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Conv.srcs/sources_1/new/Conv53.v" \
+"../../../../Conv.srcs/sources_1/new/adder32.v" \
+"../../../../Conv.srcs/sources_1/new/conv.v" \
+"../../../../Conv.srcs/sources_1/new/multiplier.v" \
+"../../../../Conv.srcs/sim_1/new/test.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
